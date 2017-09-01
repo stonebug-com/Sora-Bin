@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Media on Atelier SoRa - Specially made for you</title>
+    <link>http://www.ateliersora.ch/categories/media/</link>
+    <description>Recent content in Media on Atelier SoRa - Specially made for you</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-ch</language>
+    <lastBuildDate>Thu, 17 Nov 2016 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://www.ateliersora.ch/categories/media/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Die glückliche Schneiderin</title>
+      <link>http://www.ateliersora.ch/2016/11/die-gl%C3%BCckliche-schneiderin/</link>
+      <pubDate>Thu, 17 Nov 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.ateliersora.ch/2016/11/die-gl%C3%BCckliche-schneiderin/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://zueriost.ch/bezirk-uster/egg/die-glueckliche-schneiderin/520387&#34;&gt;EGG&lt;/a&gt; &lt;strong&gt;Anfang September eröffnete Rahel Sonderegger
+ihr eigenes Schneideratelier in Egg. Für die 40-Jährige  ging damit ein Traum in Erfüllung.&lt;/strong&gt;
+&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Eröffnung des Atelier SoRa</title>
+      <link>http://www.ateliersora.ch/2016/09/er%C3%B6ffnung-des-atelier-sora/</link>
+      <pubDate>Thu, 01 Sep 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.ateliersora.ch/2016/09/er%C3%B6ffnung-des-atelier-sora/</guid>
+      <description>Anfang September öffnet das Atelier SoRa in Egg die Türen.</description>
+    </item>
+    
+  </channel>
+</rss>

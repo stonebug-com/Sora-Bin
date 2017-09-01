@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Atelier SoRa - Specially made for you</title>
+    <link>http://www.ateliersora.ch/tags/</link>
+    <description>Recent content in Tags on Atelier SoRa - Specially made for you</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-ch</language>
+    <lastBuildDate>Thu, 01 Sep 2016 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://www.ateliersora.ch/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Changes</title>
+      <link>http://www.ateliersora.ch/tags/changes/</link>
+      <pubDate>Thu, 01 Sep 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.ateliersora.ch/tags/changes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Consulting</title>
+      <link>http://www.ateliersora.ch/tags/consulting/</link>
+      <pubDate>Thu, 01 Sep 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.ateliersora.ch/tags/consulting/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Events</title>
+      <link>http://www.ateliersora.ch/tags/events/</link>
+      <pubDate>Sun, 02 Jul 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.ateliersora.ch/tags/events/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gallery</title>
+      <link>http://www.ateliersora.ch/tags/gallery/</link>
+      <pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.ateliersora.ch/tags/gallery/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Media</title>
+      <link>http://www.ateliersora.ch/tags/media/</link>
+      <pubDate>Thu, 17 Nov 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.ateliersora.ch/tags/media/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Patterns</title>
+      <link>http://www.ateliersora.ch/tags/patterns/</link>
+      <pubDate>Thu, 01 Sep 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.ateliersora.ch/tags/patterns/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>http://www.ateliersora.ch/tags/projects/</link>
+      <pubDate>Thu, 01 Sep 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.ateliersora.ch/tags/projects/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sale</title>
+      <link>http://www.ateliersora.ch/tags/sale/</link>
+      <pubDate>Mon, 21 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.ateliersora.ch/tags/sale/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tailoring</title>
+      <link>http://www.ateliersora.ch/tags/tailoring/</link>
+      <pubDate>Thu, 01 Sep 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.ateliersora.ch/tags/tailoring/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

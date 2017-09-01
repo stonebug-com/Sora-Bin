@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Events on Atelier SoRa - Specially made for you</title>
+    <link>http://www.ateliersora.ch/categories/events/</link>
+    <description>Recent content in Events on Atelier SoRa - Specially made for you</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-ch</language>
+    <lastBuildDate>Sun, 02 Jul 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://www.ateliersora.ch/categories/events/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Sommer Apéro 2017</title>
+      <link>http://www.ateliersora.ch/2017/07/sommer-ap%C3%A9ro-2017/</link>
+      <pubDate>Sun, 02 Jul 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.ateliersora.ch/2017/07/sommer-ap%C3%A9ro-2017/</guid>
+      <description>&lt;p&gt;Am ersten Freitag des Julis 2017 lädt das Atelier SoRa zum Apéro mit Vernissage ein.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Atelier SoRa - Specially made for you</title>
+    <link>http://www.ateliersora.ch/</link>
+    <description>Recent content on Atelier SoRa - Specially made for you</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-ch</language>
+    <lastBuildDate>Fri, 01 Sep 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://www.ateliersora.ch/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Anfertigungen</title>
+      <link>http://www.ateliersora.ch/2017/09/anfertigungen/</link>
+      <pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.ateliersora.ch/2017/09/anfertigungen/</guid>
+      <description>&lt;p&gt;Diese Stücke wurden auf Kundenwunsch angefertigt.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Jupe und Top aus der Reisekollektion von «paradis des innocents»</title>
+      <link>http://www.ateliersora.ch/2017/08/jupe-und-top-aus-der-reisekollektion-von-paradis-des-innocents/</link>
+      <pubDate>Mon, 21 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.ateliersora.ch/2017/08/jupe-und-top-aus-der-reisekollektion-von-paradis-des-innocents/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sommer Apéro 2017</title>
+      <link>http://www.ateliersora.ch/2017/07/sommer-ap%C3%A9ro-2017/</link>
+      <pubDate>Sun, 02 Jul 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.ateliersora.ch/2017/07/sommer-ap%C3%A9ro-2017/</guid>
+      <description>&lt;p&gt;Am ersten Freitag des Julis 2017 lädt das Atelier SoRa zum Apéro mit Vernissage ein.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Die glückliche Schneiderin</title>
+      <link>http://www.ateliersora.ch/2016/11/die-gl%C3%BCckliche-schneiderin/</link>
+      <pubDate>Thu, 17 Nov 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.ateliersora.ch/2016/11/die-gl%C3%BCckliche-schneiderin/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://zueriost.ch/bezirk-uster/egg/die-glueckliche-schneiderin/520387&#34;&gt;EGG&lt;/a&gt; &lt;strong&gt;Anfang September eröffnete Rahel Sonderegger
+ihr eigenes Schneideratelier in Egg. Für die 40-Jährige  ging damit ein Traum in Erfüllung.&lt;/strong&gt;
+&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Eröffnung des Atelier SoRa</title>
+      <link>http://www.ateliersora.ch/2016/09/er%C3%B6ffnung-des-atelier-sora/</link>
+      <pubDate>Thu, 01 Sep 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.ateliersora.ch/2016/09/er%C3%B6ffnung-des-atelier-sora/</guid>
+      <description>Anfang September öffnet das Atelier SoRa in Egg die Türen.</description>
+    </item>
+    
+  </channel>
+</rss>

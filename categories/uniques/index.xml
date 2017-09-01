@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Uniques on Atelier SoRa - Specially made for you</title>
+    <link>http://www.ateliersora.ch/categories/uniques/</link>
+    <description>Recent content in Uniques on Atelier SoRa - Specially made for you</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-ch</language>
+    <lastBuildDate>Fri, 01 Sep 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://www.ateliersora.ch/categories/uniques/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Anfertigungen</title>
+      <link>http://www.ateliersora.ch/2017/09/anfertigungen/</link>
+      <pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.ateliersora.ch/2017/09/anfertigungen/</guid>
+      <description>&lt;p&gt;Diese Stücke wurden auf Kundenwunsch angefertigt.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

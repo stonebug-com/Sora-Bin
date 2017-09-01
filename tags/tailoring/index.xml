@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tailoring on Atelier SoRa - Specially made for you</title>
+    <link>http://www.ateliersora.ch/tags/tailoring/</link>
+    <description>Recent content in Tailoring on Atelier SoRa - Specially made for you</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-ch</language>
+    <lastBuildDate>Thu, 01 Sep 2016 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://www.ateliersora.ch/tags/tailoring/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Eröffnung des Atelier SoRa</title>
+      <link>http://www.ateliersora.ch/2016/09/er%C3%B6ffnung-des-atelier-sora/</link>
+      <pubDate>Thu, 01 Sep 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.ateliersora.ch/2016/09/er%C3%B6ffnung-des-atelier-sora/</guid>
+      <description>Anfang September öffnet das Atelier SoRa in Egg die Türen.</description>
+    </item>
+    
+  </channel>
+</rss>
