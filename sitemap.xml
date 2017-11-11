@@ -3,6 +3,16 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://www.ateliersora.ch/2017/11/t%C3%BCll-handschuhe/</loc>
+    <lastmod>2017-11-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.ateliersora.ch/2017/11/t%C3%BCll-handschuhe/</loc>
+    <lastmod>2017-11-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://www.ateliersora.ch/2017/10/sequoiah-trueblood-im-sora-by-vons-hakama/</loc>
     <lastmod>2017-10-22T00:00:00+00:00</lastmod>
   </url>
@@ -44,7 +54,7 @@
   
   <url>
     <loc>http://www.ateliersora.ch/</loc>
-    <lastmod>2017-10-22T00:00:00+00:00</lastmod>
+    <lastmod>2017-11-11T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -55,7 +65,13 @@
   
   <url>
     <loc>http://www.ateliersora.ch/tags/changes/</loc>
-    <lastmod>2016-09-01T00:00:00+00:00</lastmod>
+    <lastmod>2017-11-11T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.ateliersora.ch/categories/changes/</loc>
+    <lastmod>2017-11-11T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -103,7 +119,7 @@
   
   <url>
     <loc>http://www.ateliersora.ch/post/</loc>
-    <lastmod>2017-10-22T00:00:00+00:00</lastmod>
+    <lastmod>2017-11-11T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -133,7 +149,7 @@
   
   <url>
     <loc>http://www.ateliersora.ch/tags/</loc>
-    <lastmod>2016-09-01T00:00:00+00:00</lastmod>
+    <lastmod>2017-11-11T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
