@@ -6,10 +6,20 @@
     <description>Recent content in Media on Atelier SoRa - Specially made for you</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-ch</language>
-    <lastBuildDate>Thu, 17 Nov 2016 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 20 Dec 2017 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://www.ateliersora.ch/tags/media/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Meet the Artist</title>
+      <link>http://www.ateliersora.ch/2017/12/meet-the-artist/</link>
+      <pubDate>Wed, 20 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.ateliersora.ch/2017/12/meet-the-artist/</guid>
+      <description>Jeremy Sigrist - Fotografie aus neuen Perspektiven - am 12. Januar 2018 im Atelier SoRa
+      </description>
+    </item>
     
     <item>
       <title>Die glückliche Schneiderin</title>
