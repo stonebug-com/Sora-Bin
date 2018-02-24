@@ -6,10 +6,19 @@
     <description>Recent content in Media on Atelier SoRa - Specially made for you</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-ch</language>
-    <lastBuildDate>Wed, 20 Dec 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 24 Feb 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://www.ateliersora.ch/tags/media/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Ferien!</title>
+      <link>http://www.ateliersora.ch/2018/02/ferien/</link>
+      <pubDate>Sat, 24 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.ateliersora.ch/2018/02/ferien/</guid>
+      <description>Am 5. März beginnt der Frühling im Atelier SoRa.    </description>
+    </item>
     
     <item>
       <title>Meet the Artist</title>
