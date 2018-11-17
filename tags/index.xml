@@ -6,10 +6,19 @@
     <description>Recent content in Tags on Atelier SoRa - Specially made for you</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-ch</language>
-    <lastBuildDate>Sat, 11 Nov 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 16 Nov 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://www.ateliersora.ch/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Artist</title>
+      <link>http://www.ateliersora.ch/tags/artist/</link>
+      <pubDate>Fri, 16 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.ateliersora.ch/tags/artist/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Changes</title>
@@ -77,7 +86,7 @@
     <item>
       <title>Sale</title>
       <link>http://www.ateliersora.ch/tags/sale/</link>
-      <pubDate>Thu, 12 Jul 2018 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 21 Aug 2017 00:00:00 +0000</pubDate>
       
       <guid>http://www.ateliersora.ch/tags/sale/</guid>
       <description></description>
@@ -89,6 +98,15 @@
       <pubDate>Thu, 01 Sep 2016 00:00:00 +0000</pubDate>
       
       <guid>http://www.ateliersora.ch/tags/tailoring/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Trainings</title>
+      <link>http://www.ateliersora.ch/tags/trainings/</link>
+      <pubDate>Thu, 15 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.ateliersora.ch/tags/trainings/</guid>
       <description></description>
     </item>
     
