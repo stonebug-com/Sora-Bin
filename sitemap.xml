@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://www.ateliersora.ch/2019/06/edition-4/</loc>
+    <lastmod>2019-06-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://www.ateliersora.ch/2019/02/n%C3%A4hkurse-ab-januar-2019/</loc>
     <lastmod>2019-02-06T00:00:00+00:00</lastmod>
   </url>
@@ -83,37 +88,37 @@
   </url>
   
   <url>
-    <loc>http://www.ateliersora.ch/categories/artist/</loc>
-    <lastmod>2018-11-16T00:00:00+00:00</lastmod>
+    <loc>http://www.ateliersora.ch/tags/artist/</loc>
+    <lastmod>2019-06-16T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://www.ateliersora.ch/tags/artist/</loc>
-    <lastmod>2018-11-16T00:00:00+00:00</lastmod>
+    <loc>http://www.ateliersora.ch/categories/artist/</loc>
+    <lastmod>2019-06-16T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://www.ateliersora.ch/</loc>
-    <lastmod>2019-02-06T00:00:00+00:00</lastmod>
+    <lastmod>2019-06-16T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://www.ateliersora.ch/categories/</loc>
-    <lastmod>2018-11-16T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://www.ateliersora.ch/categories/changes/</loc>
-    <lastmod>2017-11-11T00:00:00+00:00</lastmod>
+    <lastmod>2019-06-16T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://www.ateliersora.ch/tags/changes/</loc>
+    <lastmod>2017-11-11T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.ateliersora.ch/categories/changes/</loc>
     <lastmod>2017-11-11T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -125,13 +130,13 @@
   </url>
   
   <url>
-    <loc>http://www.ateliersora.ch/categories/events/</loc>
+    <loc>http://www.ateliersora.ch/tags/events/</loc>
     <lastmod>2017-07-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://www.ateliersora.ch/tags/events/</loc>
+    <loc>http://www.ateliersora.ch/categories/events/</loc>
     <lastmod>2017-07-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -143,13 +148,13 @@
   </url>
   
   <url>
-    <loc>http://www.ateliersora.ch/categories/media/</loc>
+    <loc>http://www.ateliersora.ch/tags/media/</loc>
     <lastmod>2018-06-26T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://www.ateliersora.ch/tags/media/</loc>
+    <loc>http://www.ateliersora.ch/categories/media/</loc>
     <lastmod>2018-06-26T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -162,13 +167,7 @@
   
   <url>
     <loc>http://www.ateliersora.ch/post/</loc>
-    <lastmod>2019-02-06T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://www.ateliersora.ch/categories/projects/</loc>
-    <lastmod>2018-06-02T00:00:00+00:00</lastmod>
+    <lastmod>2019-06-16T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -179,8 +178,8 @@
   </url>
   
   <url>
-    <loc>http://www.ateliersora.ch/categories/sale/</loc>
-    <lastmod>2017-08-21T00:00:00+00:00</lastmod>
+    <loc>http://www.ateliersora.ch/categories/projects/</loc>
+    <lastmod>2018-06-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -191,8 +190,14 @@
   </url>
   
   <url>
+    <loc>http://www.ateliersora.ch/categories/sale/</loc>
+    <lastmod>2017-08-21T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://www.ateliersora.ch/tags/</loc>
-    <lastmod>2018-11-16T00:00:00+00:00</lastmod>
+    <lastmod>2019-06-16T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -203,13 +208,13 @@
   </url>
   
   <url>
-    <loc>http://www.ateliersora.ch/categories/trainings/</loc>
+    <loc>http://www.ateliersora.ch/tags/trainings/</loc>
     <lastmod>2019-02-06T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://www.ateliersora.ch/tags/trainings/</loc>
+    <loc>http://www.ateliersora.ch/categories/trainings/</loc>
     <lastmod>2019-02-06T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
