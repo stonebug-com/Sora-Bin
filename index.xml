@@ -6,10 +6,19 @@
     <description>Recent content on Atelier SoRa - Specially made for you</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-ch</language>
-    <lastBuildDate>Mon, 27 Jun 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 19 Mar 2024 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://www.ateliersora.ch/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>König Geduld</title>
+      <link>http://www.ateliersora.ch/2024/03/k%C3%B6nig-geduld/</link>
+      <pubDate>Tue, 19 Mar 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.ateliersora.ch/2024/03/k%C3%B6nig-geduld/</guid>
+      <description>Baumwoll-Märchen „König Geduld“, erzählt von Verena Lienert-Deiss.</description>
+    </item>
     
     <item>
       <title>Upcycling</title>
